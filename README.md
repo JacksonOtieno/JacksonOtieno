@@ -1,21 +1,26 @@
-# Hi there, I'm [Jesse Jackson Otieno]! 👋
+Hi, I'm Jesse Jackson Otieno 👋
 
-I am an aspiring Data Scientist currently building my foundation in data analysis and visualization. I love taking raw, messy data and turning it into clean, actionable insights. 
+I'm a Data Scientist who turns messy real-world datasets into clear, decision-ready 
+insights — from cleaning and reconciling flawed source data to building interactive 
+dashboards non-technical stakeholders can actually use.
 
-My journey is just beginning, and I am driven by the goal of eventually developing predictive machine learning models, building robust data pipelines, and creating intelligent AI agents.
+🔍 **Latest project:** [Maternal & Child Health Analysis — Kenya](https://github.com/JacksonOtieno/Maternal-Child-Health-Kenya-Analysis.)
+End-to-end analysis of WHO health data (1993–2023): identified and resolved two 
+data-quality issues in the source data, ran correlation analysis on key indicators, 
+and built an interactive Power BI dashboard. Key finding: skilled birth attendance 
+and facility births move almost identically (r≈1.0) and have overtaken antenatal 
+care coverage since ~2014.
 
-### 🔭 Current Focus
-* Mastering **Python**, **Pandas**, and **Seaborn** for Exploratory Data Analysis (EDA).
-* Learning the fundamental principles of data cleaning and statistical visualization.
+🛠 **What I work with**
+Python (Pandas, Matplotlib/Seaborn) for cleaning, EDA, and analysis · Power BI for 
+dashboards · Git/GitHub for version control
 
-### 🌱 Future Goals
-* Transitioning into advanced **Machine Learning** algorithms (Scikit-Learn).
-* Learning **Data Engineering** to build automated data pipelines.
-* Exploring the world of Large Language Models and **AI Agent** development.
+🌱 **Currently building toward**
+Data engineering and pipeline automation · SQL · applied ML on real datasets
 
-### 🚀 Latest Project
-* **[NYC Citi Bike Data Analysis](https://github.com/JacksonOtieno/NYC-Citi-Bike-Data-Analysis):** An end-to-end Python project cleaning and visualizing demographic and behavioral trends from real-world Citi Bike data.
+📂 **Also on here:** [NYC Citi Bike Data Analysis](https://github.com/JacksonOtieno/NYC-Citi-Bike-Data-Analysis) — 
+cleaning and visualizing demographic/behavioral trends from real-world ride data
 
-### 📫 Let's Connect!
-* **LinkedIn:** [www.linkedin.com/in/JesseJacksonOtieno]
-* **Email:** [jessejacksonot@gmail.com]
+📫 **Let's connect**
+LinkedIn: [linkedin.com/in/JesseJacksonOtieno](https://www.linkedin.com/in/JesseJacksonOtieno)
+Email: jessejacksonot@gmail.com
