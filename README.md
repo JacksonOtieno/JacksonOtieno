@@ -1,22 +1,27 @@
-Hi, I'm Jesse Jackson Otieno 👋
+### Hi, I'm Jesse (Jackson) Otieno 👋
 
-I'm a Data Scientist who turns messy real-world datasets into clear, decision-ready 
-insights — from cleaning and reconciling flawed source data to building interactive 
-dashboards non-technical stakeholders can actually use.
+I turn messy, real-world datasets into clear, decision-ready insights from cleaning
+and reconciling flawed source data to building dashboards non-technical stakeholders
+can actually use.
 
-🔍 **Latest project:** [Maternal & Child Health Analysis — Kenya](https://github.com/JacksonOtieno/Maternal-Child-Health-Kenya-Analysis.)
-End-to-end analysis of WHO health data (1993–2023): identified and resolved two 
-data-quality issues in the source data, ran correlation analysis on key indicators, 
-and built an interactive Power BI dashboard. Key finding: skilled birth attendance 
-and facility births move almost identically (r≈1.0) and have overtaken antenatal 
-care coverage since ~2014.
+Recent projects: I analyzed WHO maternal and reproductive health data for Kenya
+(1993–2023), resolving two data-quality issues, running correlation analysis across
+key indicators, and building an interactive Power BI dashboard key finding: skilled
+birth attendance and facility births move almost identically (r≈1.0), overtaking
+antenatal care coverage since ~2014. I also built a retail profitability analysis on
+10K+ orders, using SQL and statistical testing to show discounting past ~20%
+reliably erodes margin (r=-0.86) a pattern invisible from revenue alone.
 
-🛠 **What I work with**
-Python (Pandas, Matplotlib/Seaborn) for cleaning, EDA, and analysis · Power BI for 
-dashboards · Git/GitHub for version control
+Core skills: Python (Pandas, Matplotlib, Seaborn), SQL, Power BI, data cleaning,
+exploratory and statistical analysis.
 
-🌱 **Currently building toward**
-Data engineering and pipeline automation · SQL · applied ML on real datasets
+Currently building toward data engineering and applied machine learning. Open to
+data analysis, research, or data science internship opportunities — feel free to
+connect.
+
+**Projects:** [Maternal & Child Health Kenya Analysis](https://github.com/JacksonOtieno/Maternal-Child-Health-Kenya-Analysis.) · [Superstore Sales Profitability Analysis](https://github.com/JacksonOtieno/superstore-sales-profitability-analysis)
+
+
 
 📂 **Also on here:** [NYC Citi Bike Data Analysis](https://github.com/JacksonOtieno/NYC-Citi-Bike-Data-Analysis) — 
 cleaning and visualizing demographic/behavioral trends from real-world ride data
