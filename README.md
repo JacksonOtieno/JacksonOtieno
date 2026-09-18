@@ -7,6 +7,7 @@ I turn messy, real-world datasets into clear, decision-ready insights — from c
 Currently building toward data engineering and applied machine learning. Open to data analysis, research, or data science internship opportunities, feel free to connect.
 
 ## Projects
+-Telco Customer Churn Analysis.https://github.com/JacksonOtieno/telco-customer-churn-analysis - Customer churn analysis for a telecom provider using Python, SQL, R, and Power BI, identifying which customer segments and behaviors drive attrition, based on the IBM/Kaggle Telco Customer Churn dataset.
 
 - **[Global NCD Health Analysis](https://github.com/JacksonOtieno/Global-NCD-Health-Analysis)** — Analyzed WHO noncommunicable disease data across 185 countries (2000-2021) in Python and R; found a near-perfect correlation between mortality measures (r=0.962) and traced an outlier country's rising NCD burden to its HIV epidemic. Interactive Power BI dashboard.
 - **[Maternal & Child Health Kenya Analysis](https://github.com/JacksonOtieno/Maternal-Child-Health-Kenya-Analysis.)** — Analyzed WHO maternal/reproductive health data for Kenya (1993-2023), resolving two data-quality issues and building an interactive Power BI dashboard. Key finding: skilled birth attendance and facility births move almost identically (r≈1.0), overtaking antenatal care coverage since ~2014.
